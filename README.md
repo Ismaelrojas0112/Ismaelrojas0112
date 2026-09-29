@@ -1,15 +1,12 @@
 <div align="center">
 
-```bash
-ismaelrojas0112@github ~ $ ./portfolio.sh
-```
+<img src="https://raw.githubusercontent.com/Ismaelrojas0112/Ismaelrojas0112/main/banner.svg" width="100%" alt="Ismael Rojas Carlos - Cloud & Automation Engineer" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/wordmark?username=Ismaelrojas0112&theme=github-dark&style=terminal&label=Ismael+Rojas&mode=dark" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=Ismaelrojas0112&theme=github-dark&style=terminal&label=Ismael+Rojas&mode=light" width="100%" alt="Ismael Rojas" />
-</picture>
-
-**Cloud · Automatización · IA aplicada — construyendo soluciones con impacto real desde Lima, Perú 🇵🇪**
+<b>Ingeniería de Telecomunicaciones · UNI</b>
+<br>
+<code>Cloud</code> · <code>Automatización</code> · <code>IA aplicada</code> · <code>Agentes de IA</code>
+<br>
+<i>Construyendo soluciones con impacto real</i>
 
 </div>
 
@@ -23,7 +20,7 @@ ROL           = Cloud & Automation Engineer · AI Builder
 ESTUDIA       = Ing. de Telecomunicaciones @ UNI (9no ciclo)
 TRABAJA EN    = Entel Perú — Practicante de Cloud y Automatización
 LIDERA        = Vicepresidente IEEE Computational Intelligence Society (CIS) UNI
-CONSTRUYE     = CVsAI · Qaipu · QaliRoad · FacturAI
+CONSTRUYE     = PractiCIS · Qaipu · QaliRoad · FacturAI
 INTERESES     = Infraestructura cloud, agentes de IA, RAG, automatización
 IDIOMAS       = Español (nativo) · Inglés B2
 ```
@@ -64,7 +61,7 @@ IDIOMAS       = Español (nativo) · Inglés B2
 ### `> ls /projects --sort=impact`
 
 <details>
-<summary><b>CVsAI · CVs con IA en formato Harvard</b></summary>
+<summary><b>PractiCIS · CVs con IA en formato Harvard</b></summary>
 <br>
 
 Fundador y desarrollador. Plataforma web con IA generativa que analiza y estructura currículums bajo el estándar Harvard a partir de lenguaje natural.
